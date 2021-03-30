@@ -9,6 +9,7 @@
 
 // Export all exports so that they're available in tests.
 // We can't use export * from in Flow for some reason.
+// Buralara yaz gunu kar yagiyor canim:)
 export {
   createPortal,
   unstable_batchedUpdates,
